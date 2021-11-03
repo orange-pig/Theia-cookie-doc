@@ -1,12 +1,10 @@
 <h1 align="center">Theia cookie doc</h1>
 
-
-<div align="center">
 A three-party document for enthusiasts-selft without the [Theia Project](https://github.com/eclipse-theia/theia).
-</div>
+
+[Theia: 1.18.0](https://img.shields.io/badge/Theia-1.18.0-brightgreen)
 
 [中文](./zh-cn/main.md) | English
-
 
 ## Resource
 
