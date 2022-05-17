@@ -25,15 +25,28 @@ A three-party document for enthusiasts-selft without the [Theia Project](https:/
 
 #### 1. Create Object
 
-> Note: Project name and file name best not use `uper case`(e.g. myApp), prevent making any unpredictable problems.
+> Note: Project name and file name best **not** use `uper case`(e.g. myApp), prevent making any unpredictable problems.
 
 #### 2. Coding
 
 #### 3. Dev
 
+Theia user data foloder:
+
+    C:\Users\UserName\.theia\
+
+The folder include:
+
+    globalStorage\          # Global store place
+    logs\                   # logs of theia
+    plugin-storage\         # plugin's store place
+    workspace-storage\      # workspace storage
+    recentworkspace.json    # recent workspace store file
+    settings.json           # theia setting store file
+
 #### 4. Electron package 
 
-Install dev tool `electron-builder` version 22.4.1, corresponding electron version 9.4.4, corresponding nodejs version 12.*.*
+Install dev tool `electron-builder` version 22.4.1, corresponding electron version 9.4.4, corresponding nodejs version `12.*.*`
 
     cd ./electron-app/
     yarn add electron-builder@22.4.1 --dev
