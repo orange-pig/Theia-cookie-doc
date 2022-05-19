@@ -1,6 +1,6 @@
 ## Introduction
 
-- [] Theia Layout
+- [x] Theia Layout
 
 
 ## 拓展
